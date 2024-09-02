@@ -21,8 +21,3 @@ This repository is the ultimate guide for mastering advanced Spark Performance T
 | Dynamic Partition Pruning                 | [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://youtu.be/s8Z8Gex7VFw) | [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white)](/spark/5_1_dynamic_partition_pruning.ipynb) |
 
 
-## Contact
-
-For any questions or feedback, feel free to reach out:
-- Afaque Ahmad - [LinkedIn](https://www.linkedin.com/in/afaque-ahmad-5a5847129/)
-- GitHub Issues - [Open an Issue](https://github.com/afaqueahmad7117/spark-experiments/issues)
